@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on [thinking on it]
 - 📫 How to reach me [stay away]
 - 😄 Pronouns: binary
-- ⚡ Fun fact: cyl+alt+dlt
+- ⚡ Fun fact: ctl+alt+dlt
 
 <!---
 cunt7/cunt7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
